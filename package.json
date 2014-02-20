@@ -1,0 +1,13 @@
+{
+  "name": "pazguille-horwheel",
+  "description": "Scroll horizontally with mouse wheel",
+  "version": "0.0.3",
+  "keywords": [
+    "wheel",
+    "mousewheel",
+    "horizontal",
+    "scroll"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
